@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App de la Tarea 2</string>
+    <string name="conexion">Conexión</string>
+    <string name="enviar_sms">Enviar SMS</string>
+</resources>
